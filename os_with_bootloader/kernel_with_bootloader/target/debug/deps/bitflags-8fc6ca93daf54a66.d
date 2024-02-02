@@ -1,0 +1,11 @@
+C:\Users\LENOVO\kernel_with_bootloader\target\debug\deps\bitflags-8fc6ca93daf54a66.rmeta: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs
+
+C:\Users\LENOVO\kernel_with_bootloader\target\debug\deps\bitflags-8fc6ca93daf54a66.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs
+
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs:

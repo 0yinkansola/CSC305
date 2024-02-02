@@ -1,0 +1,13 @@
+C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\deps\bootloader_api-337b15280ea198f4.rmeta: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/concat.rs C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/version_info.rs
+
+C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\deps\libbootloader_api-337b15280ea198f4.rlib: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/concat.rs C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/version_info.rs
+
+C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\deps\bootloader_api-337b15280ea198f4.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/concat.rs C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/version_info.rs
+
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs:
+C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/concat.rs:
+C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-6258dc8f85b66078\out/version_info.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\LENOVO\\kernel_with_bootloader\\target\\x86_64-unknown-none\\debug\\build\\bootloader_api-6258dc8f85b66078\\out

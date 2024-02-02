@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=C:\Users\LENOVO\kernel_with_bootloader\Cargo.toml
+cargo:rustc-link-search=native=C:\Users\LENOVO\kernel_with_bootloader\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-9b316ecbf0fa99a4\out
+cargo:rustc-link-lib=static=kernel_bin-kernel_with_bootloader
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=\\?\C:\Users\LENOVO\kernel_with_bootloader\target\x86_64-bootimagebarest\debug\kernel_with_bootloader
+cargo:rerun-if-changed=build.rs
